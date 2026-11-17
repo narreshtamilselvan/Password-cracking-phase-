@@ -106,8 +106,8 @@ This was a useful visual learning experience because it showed how weak or commo
 
 ### Captured Lab Flag
 
-![NetworkWalks lab flag](<img width="1920" height="1080" alt="FLAG NW" src="https://github.com/user-attachments/assets/d2621327-0e9f-4243-a936-01ae41854b95" />
-)
+![NetworkWalks lab flag]( <img width="1920" height="1080" alt="FLAG NW" src="https://github.com/user-attachments/assets/d2621327-0e9f-4243-a936-01ae41854b95" />
+ )
 
 ## Key Takeaways
 
