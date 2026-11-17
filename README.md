@@ -75,10 +75,7 @@ After accessing the PDFs, I successfully captured the lab flags.
 
 | Flag 1 | Flag 2 | Flag 3 |
 | --- | --- | --- |
-| ![First captured flag](<img width="636" height="896" alt="HASH 1 FLAG" src="https://github.com/user-attachments/assets/228cc68d-d1fd-4fc6-94ff-6d9ba04b6230" />
-) | ![Second captured flag](<img width="738" height="1001" alt="HASH 2 FLAG" src="https://github.com/user-attachments/assets/3f0eb26c-00d7-4739-ae75-79c3e75eae24" />
-) | ![Third captured flag](<img width="737" height="939" alt="HASH 3 FLAG" src="https://github.com/user-attachments/assets/5a3cee12-867d-4b81-873f-94aec0a2dd4b" />
-) |
+|<img width="636" height="896" alt="HASH 1 FLAG" src="https://github.com/user-attachments/assets/228cc68d-d1fd-4fc6-94ff-6d9ba04b6230" />| ![Second captured flag](<img width="738" height="1001" alt="HASH 2 FLAG" src="https://github.com/user-attachments/assets/3f0eb26c-00d7-4739-ae75-79c3e75eae24" />| ![Third captured flag](<img width="737" height="939" alt="HASH 3 FLAG" src="https://github.com/user-attachments/assets/5a3cee12-867d-4b81-873f-94aec0a2dd4b" />|
 
 ## Method 2: Learning with NetworkWalks Tools
 
