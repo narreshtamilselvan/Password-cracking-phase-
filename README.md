@@ -36,8 +36,8 @@ Through this project, I learned:
 | Tool | Purpose |
 | --- | --- |
 | John the Ripper (JTR) | Used to test the extracted password hash in the authorized lab. |
-| NetworkWalks Hash Calculator | Used to extract a password-auditing hash from the protected PDF. |
-| NetworkWalks Password Cracker | Used to demonstrate dictionary-based password recovery. |
+| [NetworkWalks Hash Calculator](https://networkwalks.com/hash-calculator/) | Used to extract a password-auditing hash from the protected PDF. |
+| [NetworkWalks Password Cracker](https://networkwalks.com/password-cracker/) | Used to demonstrate dictionary-based password recovery. |
 | Protected PDF lab files | Supplied by NetworkWalks for the learning exercise. |
 | Wordlist | Used to test password candidates in the controlled lab. |
 
@@ -87,13 +87,13 @@ The lab page provided the authorized PDF files and explained the learning activi
 
 ### Hash Calculator
 
-The **NetworkWalks Hash Calculator** allowed me to upload the protected PDF and extract a compatible password hash. This made it easier to understand the relationship between the locked PDF and the hash used for testing.
+The [**NetworkWalks Hash Calculator**](https://networkwalks.com/hash-calculator/) allowed me to upload the protected PDF and extract a compatible password hash. This made it easier to understand the relationship between the locked PDF and the hash used for testing.
 
 ![NetworkWalks Hash Calculator](images/Hash%20calculator%20NW.png)
 
 ### Password Cracker
 
-The **NetworkWalks Password Cracker** demonstrated how a dictionary attack works. It tested password candidates from a wordlist against the provided hash until the correct lab password was found.
+The [**NetworkWalks Password Cracker**](https://networkwalks.com/password-cracker/) demonstrated how a dictionary attack works. It tested password candidates from a wordlist against the provided hash until the correct lab password was found.
 
 This was a useful visual learning experience because it showed how weak or commonly used passwords can be discovered through wordlist-based testing.
 
