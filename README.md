@@ -51,8 +51,7 @@ I received a password-protected PDF as part of the NetworkWalks lab. The goal wa
 
 I uploaded the locked PDF to a hash-extraction tool. The tool generated a hash in a format suitable for password-auditing tools.
 
-![PDF hash extraction](<img width="1920" height="1080" alt="HASHING WEB" src="https://github.com/user-attachments/assets/8dbbdf23-8289-4bc8-ad6d-099be2b2d9d9" />
-)
+![PDF hash extraction](images/HASHING%20WEB.png)
 
 ### 3. Save the hash
 
@@ -66,8 +65,7 @@ I installed and configured John the Ripper, then loaded the text file containing
 
 John the Ripper tested password candidates against the hash using the lab wordlist. After the password was recovered, I used it to open the protected PDF.
 
-![John the Ripper result](<img width="1920" height="1080" alt="JTR" src="https://github.com/user-attachments/assets/9609d6c3-8432-4630-b773-93154c4f0bd1" />
-)
+![John the Ripper result](images/JTR.png)
 
 ### 6. Capture the flags
 
@@ -75,7 +73,7 @@ After accessing the PDFs, I successfully captured the lab flags.
 
 | Flag 1 | Flag 2 | Flag 3 |
 | --- | --- | --- |
-|<img width="636" height="896" alt="HASH 1 FLAG" src="https://github.com/user-attachments/assets/228cc68d-d1fd-4fc6-94ff-6d9ba04b6230" />|<img width="738" height="1001" alt="HASH 2 FLAG" src="https://github.com/user-attachments/assets/3f0eb26c-00d7-4739-ae75-79c3e75eae24" />| <img width="737" height="939" alt="HASH 3 FLAG" src="https://github.com/user-attachments/assets/5a3cee12-867d-4b81-873f-94aec0a2dd4b" />|
+| ![First captured flag](images/HASH%201%20FLAG.png) | ![Second captured flag](images/HASH%202%20FLAG.png) | ![Third captured flag](images/HASH%203%20FLAG.png) |
 
 ## Method 2: Learning with NetworkWalks Tools
 
@@ -85,15 +83,13 @@ NetworkWalks provided browser-based tools that made the password-auditing workfl
 
 The lab page provided the authorized PDF files and explained the learning activity.
 
-![NetworkWalks password-cracking lab](<img width="1920" height="1080" alt="Networkwalks page" src="https://github.com/user-attachments/assets/c9cbfcf3-1139-4cd7-8b1e-198bb060197e" />
-)
+![NetworkWalks password-cracking lab](images/Networkwalks%20page.png)
 
 ### Hash Calculator
 
 The [**NetworkWalks Hash Calculator**](https://networkwalks.com/hash-calculator/) allowed me to upload the protected PDF and extract a compatible password hash. This made it easier to understand the relationship between the locked PDF and the hash used for testing.
 
-![NetworkWalks Hash Calculator](<img width="1920" height="1080" alt="Hash calculator NW" src="https://github.com/user-attachments/assets/bbeefdb5-4941-41a8-b7d1-7b1be7561182" />
-)
+![NetworkWalks Hash Calculator](images/Hash%20calculator%20NW.png)
 
 ### Password Cracker
 
@@ -101,13 +97,11 @@ The [**NetworkWalks Password Cracker**](https://networkwalks.com/password-cracke
 
 This was a useful visual learning experience because it showed how weak or commonly used passwords can be discovered through wordlist-based testing.
 
-![NetworkWalks Password Cracker](<img width="1920" height="1080" alt="Password cracker NW" src="https://github.com/user-attachments/assets/981add4a-0f65-48a2-8dd8-19c5d54816f3" />
-)
+![NetworkWalks Password Cracker](images/Password%20cracker%20NW.png)
 
 ### Captured Lab Flag
 
-![NetworkWalks lab flag]( <img width="1920" height="1080" alt="FLAG NW" src="https://github.com/user-attachments/assets/d2621327-0e9f-4243-a936-01ae41854b95" />
- )
+![NetworkWalks lab flag](images/FLAG%20NW.png)
 
 ## Key Takeaways
 
